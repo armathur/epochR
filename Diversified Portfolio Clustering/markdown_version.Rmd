@@ -1,0 +1,19 @@
+---
+title: "Diversifing Portfolio Analysis using K Means Clustering"
+output: github_document
+---
+```{r}
+
+```
+
+
+
+Loading the Libraries
+```{r message=FALSE, warning=TRUE}
+library(Quandl)
+library(tidyverse)
+library(readr)
+library(factoextra)
+library(cluster)
+library(gridExtra)
+```

@@ -7,7 +7,7 @@ library(gridExtra)
 
 set.seed(20)
 
-Quandl.api_key(Sys.getenv("API_QUANDL"))
+# Quandl.api_key(Sys.getenv("API_QUANDL"))
 # Constatnt value assigned to revenue
 WEIGHT = 0.4 #range from 0 to 1
 DELAY_MODELS = 8
